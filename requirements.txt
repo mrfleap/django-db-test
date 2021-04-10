@@ -1,0 +1,2 @@
+django==3.2
+django-guardian==2.3.0
